@@ -1,6 +1,6 @@
 # 🛡️ Safe Squad - Decentralized Multi-Signature Treasury Management
 
-> **Revolutionary DeFi platform for secure, collaborative fund management on Aptos blockchain**
+> **Revolutionary Payments platform for secure, collaborative fund management on Aptos blockchain**
 
 ---
 
@@ -145,17 +145,7 @@ Aptos Testnet
 - **Research grants**: Multi-investigator fund management
 - **Student organizations**: Transparent budget allocation
 - **Academic projects**: Collaborative resource sharing
-
-### **🎮 Gaming & Communities**
-- **Guild treasuries**: Gaming community fund management
-- **Tournament prizes**: Fair prize distribution
-- **Community projects**: Crowdfunded initiatives
-
-### **🏠 Personal & Family**
-- **Family budgets**: Shared household expenses
-- **Investment groups**: Collaborative investment decisions
-- **Emergency funds**: Multi-person emergency reserves
-
+  
 ---
 
 ## 🔮 **Future Roadmap**
@@ -167,7 +157,7 @@ Aptos Testnet
 - [x] Proposal and approval workflow
 
 ### **Phase 2: Enhanced Features** 🚧
-- [ ] Advanced proposal types (NFT purchases, DeFi interactions)
+- [ ] Advanced proposal types (NFT purchases, Payments interactions)
 - [ ] Time-locked proposals
 - [ ] Member role management
 - [ ] Treasury analytics dashboard
@@ -223,20 +213,11 @@ const squad = await client.createSquad(members, threshold);
 await client.deposit("1000000"); // 0.01 APT
 ```
 
-### **Developer Benefits**
-- **Easy Integration**: Simple API for squad operations
-- **Wallet Agnostic**: Works with any Aptos wallet
-- **Production Ready**: Battle-tested in Safe Squad dApp
-- **Security First**: Timely transactions prevent replay attacks
-- **Documentation**: Comprehensive guides and examples
-
----
-
 ## ⚡ **Why Choose Safe Squad?**
 
 ✅ **Security First**: Multi-signature technology ensures fund safety  
 ✅ **Timely Security**: 2-minute transaction validity prevents attacks  
-✅ **User Friendly**: Complex DeFi made simple and intuitive  
+✅ **User Friendly**: Complex Payments made simple and intuitive  
 ✅ **Aptos Native**: Built specifically for Aptos ecosystem  
 ✅ **Modern Design**: Premium UI/UX experience  
 ✅ **Flexible**: Adaptable to any squad size or use case  
@@ -249,4 +230,15 @@ await client.deposit("1000000"); // 0.01 APT
 
 ---
 
-*Built with ❤️ for the Aptos ecosystem*
+## Screenshots
+
+<img width="1442" height="672" alt="Screenshot 2025-09-25 at 3 52 22 AM" src="https://github.com/user-attachments/assets/3dde6bd3-47a1-44f1-8405-9ff232feb6c9" />
+<img width="1395" height="476" alt="Screenshot 2025-09-25 at 3 52 34 AM" src="https://github.com/user-attachments/assets/39e456b5-f90c-4d47-bc93-148fa386aa54" />
+<img width="1394" height="505" alt="Screenshot 2025-09-25 at 3 52 47 AM" src="https://github.com/user-attachments/assets/a6999f85-3f88-4f9a-8d28-3b85a32a8372" />
+<img width="1396" height="607" alt="Screenshot 2025-09-25 at 3 53 00 AM" src="https://github.com/user-attachments/assets/d3198193-f252-43e8-bfaf-8a1a00d45d7d" />
+<img width="1470" height="831" alt="Screenshot 2025-09-25 at 3 54 43 AM" src="https://github.com/user-attachments/assets/8d153c2b-aac9-40ed-bf9f-d9fd1aee5a25" />
+
+
+
+
+
