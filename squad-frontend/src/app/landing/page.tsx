@@ -167,7 +167,7 @@ export default function LandingPage() {
         color: 'rgba(255, 255, 255, 0.5)'
       }}>
         <p>
-          🚀 Aptos Squad © {new Date().getFullYear()} – Secure treasury management
+          🚀 Safe squad © {new Date().getFullYear()} – Secure treasury management
           on Aptos
         </p>
       </footer>
