@@ -1,4 +1,4 @@
-# 🛡️ Safe Squad - Decentralized Multi-Signature Treasury Management
+# 🛡️ Safe Squad - Decentralized Multi-Signature Treasury Management [Video](https://youtu.be/HA_1sQnSkT4)
 
 > **Revolutionary Payments platform for secure, collaborative fund management on Aptos blockchain**
 
