@@ -1,0 +1,13 @@
+[package]
+name = "squad_contract2"
+version = "0.0.1"
+authors = ["Jatin Sinha"]
+
+[addresses]
+std = "0x1"
+multisig2 = "0x6bac68c081f0d90d947c211c9b43634b74303ea36ff13bc15c109857c0516e2d"
+
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+AptosTokenObjects = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-token-objects", rev = "main" }
