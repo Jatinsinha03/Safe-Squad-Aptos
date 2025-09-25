@@ -18,7 +18,7 @@ async function exampleUsage() {
   // Create accounts (in real usage, you'd load from private keys / .env)
   const creator = Account.fromPrivateKey({
     privateKey: new Ed25519PrivateKey(
-      "0xb501603316f3606d0edd7331c7209c930907b2f6ff0fd4f643ef544437c61698"
+      process.env.PRIVATE_KEY
     ),
   });
 
